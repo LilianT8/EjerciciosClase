@@ -17,7 +17,7 @@ public class EjercicioArray03 {
         System.out.println(cadenaAImprimir3);
         //
         String[] palabras44 = copiaRango(palabras, 5, 10);
-        System.out.println(Arrays.toString(palabras44));
+        System.out.println(Arrays.toString(palabras44))  ;
 
 
     }
